@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:<br/>
 Follow these steps to set up the project locally:
 <h3><b>Clone the repository:</b></h3>
 ◉ git clone https://github.com/Rupak-25/Nike-Landing-Page.git<br/>
-◉ cd nike-landing-page<br/>
+◉ cd Nike-Landing-Page<br/>
 
 
 <h3><b>Install the dependencies:</b></h3>
